@@ -11,9 +11,9 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image2]: ./image2.jpg "Center Driving"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
+[image3]: ./image3.jpg "Recovery Image"
+[image4]: ./image4.jpg "Recovery Image"
+[image5]: ./image5.jpg "Recovery Image"
 [image6]: ./image6.jpg "Normal Image"
 [image7]: ./image7.jpg "Flipped Image"
 
